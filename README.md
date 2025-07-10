@@ -12,4 +12,4 @@
 # Blog
 - Content available at:
 - Conteúdo disponível em:
-  https://codedelphi.com/leitura-de-arquivos-xml-em-delphi/
+  https://www.codedelphi.com/2024/09/leitura-de-arquivos-xml-em-delphi.html
